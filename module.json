@@ -1,0 +1,95 @@
+{
+  "id": "the_witcher_compendium_ita",
+  "title": "The Witcher GDR Compendium ITA",
+  "version": "0.4",
+  "authors": [
+    {
+      "name": "Balian",
+      "url": "https://github.com/domtorraco/",
+      "flags": {}
+    }
+  ],
+  "compatibility": {
+    "minimum": "11",
+    "maximum": "11",
+    "verified": "11.315"
+  },
+  "styles": [
+    "css/styles.css"
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "TheWitcherTRPG",
+        "type": "system",
+        "manifest": "https://github.com/AnthonyMonette/TheWitcherTRPG/releases/latest/download/system.json",
+        "compatibility": {
+          "minimum": "0.96",
+          "verified": "0.96"
+        }
+      }
+    ]
+  },
+  "packs": [
+    {
+      "name": "razze",
+      "label": "Razze",
+      "path": "packs/razze",
+      "entity": "Item",
+      "type": "Item",
+      "package": "the_witcher_compendium_ita"
+    },
+    {
+      "name": "magia",
+      "label": "Magia",
+      "path": "packs/magia",
+      "entity": "Item",
+      "type": "Item",
+      "package": "the_witcher_compendium_ita"
+    },
+    {
+      "name": "equipaggiamento",
+      "label": "Equipaggiamento",
+      "path": "packs/equipaggiamento",
+      "entity": "Item",
+      "type": "Item",
+      "package": "the_witcher_compendium_ita"
+    },
+    {
+      "name": "artigianato",
+      "label": "Artigianato",
+      "path": "packs/artigianato",
+      "entity": "Item",
+      "type": "Item",
+      "package": "the_witcher_compendium_ita"
+    },
+    {
+      "name": "bestiario",
+      "label": "Bestiario",
+      "path": "packs/bestiario",
+      "entity": "Actor",
+      "type": "Actor",
+      "package": "the_witcher_compendium_ita"
+    },
+    {
+      "name": "esperimenti-rune-e-reliquie",
+      "label": "Esperimenti, Rune e Reliquie",
+      "path": "packs/esperimenti-rune-e-reliquie",
+      "entity": "Item",
+      "type": "Item",
+      "package": "the_witcher_compendium_ita"
+    },
+    {
+      "name": "professioni",
+      "label": "Professioni",
+      "path": "packs/professioni",
+      "entity": "Item",
+      "type": "Item",
+      "package": "the_witcher_compendium_ita"
+    }
+  ],
+  "url": "https://github.com/domtorraco/the_witcher_compendium_ita",
+  "manifest": "https://github.com/domtorraco/the_witcher_compendium_ita/releases/latest/download/module.json",
+  "download": "https://github.com/domtorraco/the_witcher_compendium_ita/releases/latest/download/module.zip",
+  "description": "Questo modulo aggiunge un compendio in Italiano per il GDR di The Witcher, grazie al contributo di Archer39"
+}
