@@ -41,7 +41,7 @@
     }
   ],
   "url": "https://github.com/domtorraco/the_witcher_compendium_ita",
-  "manifest": "https://github.com/domtorraco/Dishonored_compendium_ita/edit/main/module.json",
-  "download": "https://github.com/domtorraco/Dishonored_compendium_ita/edit/main/module.zip",
+  "manifest": "https://github.com/domtorraco/Dishonored_compendium_ita/main/module.json",
+  "download": "https://github.com/domtorraco/Dishonored_compendium_ita/main/module.zip",
   "description": "Questo modulo aggiunge un compendio in Italiano per il GDR di Dishonored, grazie al contributo di Archer39"
 }
